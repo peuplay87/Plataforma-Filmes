@@ -15,8 +15,8 @@ cd minha-api
 
 ## Endpoints
 
-GET /teste  
-POST /teste  
+GET /PUT
+POST /DELETE
 
 ## Autor
 Pedro Cavalcanti
